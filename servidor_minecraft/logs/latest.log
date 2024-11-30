@@ -212,3 +212,12 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 2024-11-30 23:42:09,647 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.6
 2024-11-30 23:42:15,185 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.8
 2024-11-30 23:42:28,887 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:width 0.8
+2024-11-30 23:47:22,748 [32mINFO [m [m[User Authenticator #3][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player humberto56 is 1fcc7d8f-2da2-3108-b808-f6c767ee1678
+2024-11-30 23:47:26,018 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a5bc0e1
+2024-11-30 23:47:26,039 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: humberto56[/127.64.7.59:55823] logged in with entity id 339 at (-286.5, 14.0, 299.5)
+2024-11-30 23:47:34,430 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /tp humberto56
+2024-11-30 23:47:34,434 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Teleported alascrack to humberto56]
+2024-11-30 23:51:20,405 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:width 0.8 humberto56
+2024-11-30 23:51:27,053 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.8 humberto56
+2024-11-30 23:51:36,533 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /op humberto56
+2024-11-30 23:51:36,538 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Made humberto56 a server operator]
