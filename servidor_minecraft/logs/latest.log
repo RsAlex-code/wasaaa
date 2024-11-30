@@ -1,0 +1,317 @@
+2024-11-30 12:54:42,211 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+2024-11-30 12:54:42,216 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
+2024-11-30 12:54:42,354 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wasaaa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
+2024-11-30 12:54:42,717 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(55)[m: Found 2 dependencies adding them to mods collection
+2024-11-30 12:54:44,066 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
+2024-11-30 12:54:44,125 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2024-11-30 12:54:45,137 [32mINFO [m [m[main][m [mMixinExtras|Service.info(97)[m: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+2024-11-30 12:54:51,708 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(143)[m: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+2024-11-30 12:54:51,708 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(41)[m: MinecraftForge v40.2.21 Initialized
+2024-11-30 12:54:52,071 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(17)[m: EventDispatcherRegistry initialized
+2024-11-30 12:55:10,001 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.setConfig(88)[m: Configuration file /workspaces/wasaaa/servidor_minecraft/config/pehkui-common.toml is not correct. Correcting
+2024-11-30 12:55:10,002 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:10,003 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledFallDamage was corrected from null to its default, true. 
+2024-11-30 12:55:10,004 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledMotion was corrected from null to its default, true. 
+2024-11-30 12:55:10,004 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledReach was corrected from null to its default, true. 
+2024-11-30 12:55:10,006 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledAttack was corrected from null to its default, true. 
+2024-11-30 12:55:10,007 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledDefense was corrected from null to its default, true. 
+2024-11-30 12:55:10,007 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledHealth was corrected from null to its default, true. 
+2024-11-30 12:55:10,008 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledItemDrops was corrected from null to its default, true. 
+2024-11-30 12:55:10,008 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledProjectiles was corrected from null to its default, true. 
+2024-11-30 12:55:10,008 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scaledExplosions was corrected from null to its default, true. 
+2024-11-30 12:55:10,009 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.keepAllScalesOnRespawn was corrected from null to its default, false. 
+2024-11-30 12:55:10,009 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.accurateNetherPortals was corrected from null to its default, true. 
+2024-11-30 12:55:10,010 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.scalesKeptOnRespawn was corrected from null to its default, []. 
+2024-11-30 12:55:10,010 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.enableCommands was corrected from null to its default, true. 
+2024-11-30 12:55:10,011 [33mWARN [m [m[main][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key general.enableDebugCommands was corrected from null to its default, false. 
+2024-11-30 12:55:14,728 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(72)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2024-11-30 12:55:17,782 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/wasaaa/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2369!/assets/.mcassetsroot' uses unexpected schema
+2024-11-30 12:55:17,783 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/wasaaa/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2369!/data/.mcassetsroot' uses unexpected schema
+2024-11-30 12:55:19,946 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-11-30 12:55:19,947 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-11-30 12:55:19,950 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2024-11-30 12:55:19,953 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2024-11-30 12:55:19,954 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-11-30 12:55:19,958 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+2024-11-30 12:55:19,960 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+2024-11-30 12:55:19,961 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+2024-11-30 12:55:19,962 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+2024-11-30 12:55:19,964 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+2024-11-30 12:55:19,965 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+2024-11-30 12:55:19,966 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+2024-11-30 12:55:19,967 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+2024-11-30 12:55:19,969 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+2024-11-30 12:55:19,972 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+2024-11-30 12:55:19,974 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+2024-11-30 12:55:19,975 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+2024-11-30 12:55:19,977 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+2024-11-30 12:55:19,980 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, sendmodel, targets, clear] and [mpm, sendmodel, targets, from] with inputs: [clear]
+2024-11-30 12:55:19,981 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, scale, targets, all] and [mpm, scale, targets, head] with inputs: [words_with_underscores, word]
+2024-11-30 12:55:19,982 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, scale, targets, head] and [mpm, scale, targets, all] with inputs: [words_with_underscores, word]
+2024-11-30 12:55:23,237 [32mINFO [m [m[Worker-Main-4][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 9 recipes
+2024-11-30 12:55:27,800 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(150)[m: Starting minecraft server version 1.18.2
+2024-11-30 12:55:27,801 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(155)[m: Loading properties
+2024-11-30 12:55:27,801 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: Default game type: SURVIVAL
+2024-11-30 12:55:27,802 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1286)[m: Generating keypair
+2024-11-30 12:55:28,098 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(183)[m: Starting Minecraft server on *:25565
+2024-11-30 12:55:28,142 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(79)[m: Using epoll channel type
+2024-11-30 12:55:28,338 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(195)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2024-11-30 12:55:28,340 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(196)[m: The server will make no attempt to authenticate usernames. Beware.
+2024-11-30 12:55:28,342 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(197)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2024-11-30 12:55:28,343 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2024-11-30 12:55:28,500 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.18.2-187 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT, Forge version 40.2.21)
+2024-11-30 12:55:31,048 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2024-11-30 12:55:31,050 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
+2024-11-30 12:55:31,064 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2024-11-30 12:55:33,122 [1;31mERROR[m [m[Server thread][m [mMinecraft.publish(32)[m: Could not load 'plugins/worldedit-bukkit-7.3.9.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/WorldEditPlugin has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:148) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:393) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:301) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	at org.bukkit.craftbukkit.v1_18_R2.CraftServer.loadPlugins(CraftServer.java:374) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:7e29f765-296df566-9fb885e8]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:216) ~[server-1.18.2-20220404.173914-srg.jar%2369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:828) ~[server-1.18.2-20220404.173914-srg.jar%2369!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:287) ~[server-1.18.2-20220404.173914-srg.jar%2369!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/WorldEditPlugin has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:1017) ~[?:?]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:210) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:155) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:592) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:114) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:109) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:467) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:77) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:144) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
+	... 7 more
+2024-11-30 12:55:33,127 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading LuckPerms v5.4.146
+2024-11-30 12:55:33,977 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Loading SkinsRestorer v15.4.4
+2024-11-30 12:55:33,980 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Enabling LuckPerms v5.4.146
+2024-11-30 12:55:36,344 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b       §3 __    
+2024-11-30 12:55:36,357 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b  |    §3|__)   §2LuckPerms§r §bv5.4.146
+2024-11-30 12:55:36,359 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b  |___ §3|      §8Running on Bukkit - Mohist
+2024-11-30 12:55:36,361 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: 
+2024-11-30 12:55:36,383 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading configuration...
+2024-11-30 12:55:37,831 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading storage provider... [H2]
+2024-11-30 12:55:42,520 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading internal permission managers...
+2024-11-30 12:55:43,056 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Performing initial data load...
+2024-11-30 12:55:43,316 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Successfully enabled. (took 9335ms)
+2024-11-30 12:55:43,318 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+2024-11-30 12:55:45,436 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+2024-11-30 12:55:48,002 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+2024-11-30 12:55:49,580 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.setConfig(88)[m: Configuration file ./world/serverconfig/pehkui-server.toml is not correct. Correcting
+2024-11-30 12:55:49,581 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,581 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,582 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.base was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,582 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.base.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+2024-11-30 12:55:49,583 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.base.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,584 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.width was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,584 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.width.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+2024-11-30 12:55:49,585 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,585 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.height was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,586 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.height.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+2024-11-30 12:55:49,586 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,587 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.eye_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,587 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.eye_height.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+2024-11-30 12:55:49,588 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.eye_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,589 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.hitbox_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,589 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.hitbox_width.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+2024-11-30 12:55:49,590 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.hitbox_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,590 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.hitbox_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,591 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.hitbox_height.minimum was corrected from null to its default, 1.2621774483536189E-29. 
+2024-11-30 12:55:49,592 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.hitbox_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,592 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.interaction_box_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,593 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.interaction_box_width.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,593 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.interaction_box_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,594 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.interaction_box_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,595 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.interaction_box_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,595 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.interaction_box_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,596 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.model_width was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,596 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.model_width.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,597 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.model_width.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,598 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.model_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,599 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.model_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,599 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.model_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,600 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.third_person was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,600 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.third_person.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,601 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.third_person.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,602 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.motion was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,612 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.motion.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,614 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.motion.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,614 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.falling was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,615 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.falling.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,615 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.falling.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,616 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.step_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,616 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.step_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,617 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.step_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,618 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.view_bobbing was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,618 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.view_bobbing.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,619 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.view_bobbing.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,620 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.visibility was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,620 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.visibility.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,621 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.visibility.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,621 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.jump_height was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,622 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.jump_height.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,623 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.jump_height.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,623 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.flight was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,624 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.flight.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,625 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.flight.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,625 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,626 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,626 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,627 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.block_reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,627 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.block_reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,636 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.block_reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,637 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.entity_reach was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,637 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.entity_reach.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,638 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.entity_reach.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,638 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.mining_speed was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,638 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.mining_speed.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,639 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.mining_speed.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,639 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.attack_speed was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,639 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.attack_speed.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,640 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.attack_speed.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,640 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.knockback was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,640 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.knockback.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,641 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.knockback.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,641 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.attack was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,641 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.attack.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,642 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.attack.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,642 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.defense was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,644 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.defense.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,644 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.defense.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,645 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.health was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,645 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.health.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,646 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.health.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,647 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.drops was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,647 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.drops.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,660 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.drops.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,661 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.held_item was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,661 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.held_item.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,662 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.held_item.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,662 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.projectiles was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,663 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.projectiles.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,663 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.projectiles.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,664 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.explosions was corrected from null to its default, SimpleCommentedConfig:{}. 
+2024-11-30 12:55:49,664 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.explosions.minimum was corrected from null to its default, 1.401298464324817E-45. 
+2024-11-30 12:55:49,665 [33mWARN [m [m[Server thread][m [mn.m.c.ForgeConfigSpec.lambda$setConfig$0(91)[m: Incorrect key server.scale_limits.explosions.maximum was corrected from null to its default, 3.4028234663852886E38. 
+2024-11-30 12:55:49,696 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(224)[m: Preparing level "world"
+2024-11-30 12:55:50,480 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:overworld
+2024-11-30 12:55:52,543 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:52,572 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:52,579 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:52,586 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:52,592 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:52,994 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:53,482 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:53,984 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:54,484 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:54,983 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:55,485 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:55,985 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:56,485 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:55:56,990 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2024-11-30 12:55:57,489 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-11-30 12:55:57,983 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-11-30 12:55:58,491 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 5%
+2024-11-30 12:55:58,991 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 9%
+2024-11-30 12:55:59,483 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 29%
+2024-11-30 12:55:59,982 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 45%
+2024-11-30 12:56:00,483 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 62%
+2024-11-30 12:56:00,983 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 95%
+2024-11-30 12:56:01,533 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 11052 ms
+2024-11-30 12:56:01,631 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_end
+2024-11-30 12:56:02,924 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:02,925 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:02,926 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:03,135 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:03,651 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:04,149 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:04,649 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2024-11-30 12:56:05,145 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-11-30 12:56:05,632 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 8%
+2024-11-30 12:56:06,132 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 15%
+2024-11-30 12:56:06,635 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 25%
+2024-11-30 12:56:07,140 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 38%
+2024-11-30 12:56:07,632 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 55%
+2024-11-30 12:56:08,132 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 82%
+2024-11-30 12:56:08,541 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 6909 ms
+2024-11-30 12:56:08,544 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_nether
+2024-11-30 12:56:08,852 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:09,144 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:09,551 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:10,056 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:10,628 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:11,184 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:11,689 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:12,116 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:12,591 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:13,124 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:13,739 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:14,066 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:14,669 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:15,052 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 12:56:15,593 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2024-11-30 12:56:16,051 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 2%
+2024-11-30 12:56:16,551 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 2%
+2024-11-30 12:56:17,070 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-11-30 12:56:17,577 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 5%
+2024-11-30 12:56:18,058 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 6%
+2024-11-30 12:56:18,572 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 8%
+2024-11-30 12:56:19,128 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 9%
+2024-11-30 12:56:19,552 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 10%
+2024-11-30 12:56:20,053 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 11%
+2024-11-30 12:56:20,551 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 13%
+2024-11-30 12:56:21,051 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 14%
+2024-11-30 12:56:21,559 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 16%
+2024-11-30 12:56:22,084 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 17%
+2024-11-30 12:56:22,553 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 19%
+2024-11-30 12:56:23,063 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 20%
+2024-11-30 12:56:23,561 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 23%
+2024-11-30 12:56:24,077 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 25%
+2024-11-30 12:56:24,551 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 26%
+2024-11-30 12:56:25,051 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 30%
+2024-11-30 12:56:25,558 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 32%
+2024-11-30 12:56:26,058 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 34%
+2024-11-30 12:56:26,552 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 38%
+2024-11-30 12:56:27,053 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 41%
+2024-11-30 12:56:27,555 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 43%
+2024-11-30 12:56:28,052 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 45%
+2024-11-30 12:56:28,556 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 49%
+2024-11-30 12:56:29,074 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 54%
+2024-11-30 12:56:29,571 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 56%
+2024-11-30 12:56:30,066 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 58%
+2024-11-30 12:56:30,557 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 63%
+2024-11-30 12:56:31,067 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 66%
+2024-11-30 12:56:31,565 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 69%
+2024-11-30 12:56:32,052 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 72%
+2024-11-30 12:56:32,557 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 75%
+2024-11-30 12:56:33,055 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 79%
+2024-11-30 12:56:33,568 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 83%
+2024-11-30 12:56:34,051 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 85%
+2024-11-30 12:56:34,555 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 88%
+2024-11-30 12:56:35,052 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 92%
+2024-11-30 12:56:35,555 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 95%
+2024-11-30 12:56:36,072 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 98%
+2024-11-30 12:56:36,129 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 27578 ms
+2024-11-30 12:56:36,145 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2024-11-30 12:56:36,156 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(228)[m: Done (46.599s)! For help, type "help"
+2024-11-30 12:56:36,173 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2024-11-30 12:56:36,625 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-11-30 12:56:36,626 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2024-11-30 12:56:36,627 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+2024-11-30 12:56:36,627 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+2024-11-30 12:56:36,628 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+2024-11-30 12:56:36,628 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2024-11-30 12:56:36,629 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-11-30 12:56:36,629 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
+2024-11-30 12:56:36,630 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
+2024-11-30 12:56:36,630 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+2024-11-30 12:56:36,631 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-11-30 12:56:36,631 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+2024-11-30 12:56:36,632 [32mINFO [m [m[Craft Scheduler Thread - 2][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+2024-11-30 13:02:35,824 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: Unknown command. Type "help" for help.

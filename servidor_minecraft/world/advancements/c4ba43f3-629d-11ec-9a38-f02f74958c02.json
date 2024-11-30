@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2021-12-28 20:48:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-12-28 20:48:12 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
