@@ -1,53 +1,53 @@
-2024-11-30 22:58:45,251 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-2024-11-30 22:58:45,258 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
-2024-11-30 22:58:46,097 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wasaaa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
-2024-11-30 22:58:46,752 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(55)[m: Found 2 dependencies adding them to mods collection
-2024-11-30 22:58:48,972 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
-2024-11-30 22:58:49,013 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
-2024-11-30 22:58:50,653 [32mINFO [m [m[main][m [mMixinExtras|Service.info(97)[m: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-2024-11-30 22:58:59,875 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(143)[m: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-2024-11-30 22:58:59,877 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(41)[m: MinecraftForge v40.2.21 Initialized
-2024-11-30 22:59:00,484 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(17)[m: EventDispatcherRegistry initialized
-2024-11-30 22:59:30,409 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(72)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-2024-11-30 22:59:33,915 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/wasaaa/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2369!/assets/.mcassetsroot' uses unexpected schema
-2024-11-30 22:59:33,916 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/wasaaa/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2369!/data/.mcassetsroot' uses unexpected schema
-2024-11-30 22:59:37,287 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-2024-11-30 22:59:37,290 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-2024-11-30 22:59:37,301 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-2024-11-30 22:59:37,303 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-2024-11-30 22:59:37,304 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-2024-11-30 22:59:37,319 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
-2024-11-30 22:59:37,320 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
-2024-11-30 22:59:37,322 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-2024-11-30 22:59:37,334 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-2024-11-30 22:59:37,336 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
-2024-11-30 22:59:37,337 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
-2024-11-30 22:59:37,339 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-2024-11-30 22:59:37,341 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
-2024-11-30 22:59:37,342 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
-2024-11-30 22:59:37,344 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
-2024-11-30 22:59:37,346 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
-2024-11-30 22:59:37,348 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
-2024-11-30 22:59:37,350 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
-2024-11-30 22:59:37,352 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, sendmodel, targets, clear] and [mpm, sendmodel, targets, from] with inputs: [clear]
-2024-11-30 22:59:37,366 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, scale, targets, all] and [mpm, scale, targets, head] with inputs: [words_with_underscores, word]
-2024-11-30 22:59:37,368 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, scale, targets, head] and [mpm, scale, targets, all] with inputs: [words_with_underscores, word]
-2024-11-30 22:59:41,806 [32mINFO [m [m[Worker-Main-5][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 9 recipes
-2024-11-30 22:59:47,781 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(150)[m: Starting minecraft server version 1.18.2
-2024-11-30 22:59:47,782 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(155)[m: Loading properties
-2024-11-30 22:59:47,782 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: Default game type: SURVIVAL
-2024-11-30 22:59:47,783 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1286)[m: Generating keypair
-2024-11-30 22:59:48,039 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(183)[m: Starting Minecraft server on *:25565
-2024-11-30 22:59:48,138 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(79)[m: Using epoll channel type
-2024-11-30 22:59:48,394 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(195)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-2024-11-30 22:59:48,395 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(196)[m: The server will make no attempt to authenticate usernames. Beware.
-2024-11-30 22:59:48,395 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(197)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-2024-11-30 22:59:48,396 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: To change this, set "online-mode" to "true" in the server.properties file.
-2024-11-30 22:59:48,531 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.18.2-187 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT, Forge version 40.2.21)
-2024-11-30 22:59:51,824 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
-2024-11-30 22:59:51,827 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
-2024-11-30 22:59:51,837 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
-2024-11-30 22:59:55,194 [1;31mERROR[m [m[Server thread][m [mMinecraft.publish(32)[m: Could not load 'plugins/worldedit-bukkit-7.3.9.jar' in folder 'plugins'
+2024-11-30 23:12:34,493 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+2024-11-30 23:12:34,497 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
+2024-11-30 23:12:34,615 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/wasaaa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
+2024-11-30 23:12:35,119 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(55)[m: Found 2 dependencies adding them to mods collection
+2024-11-30 23:12:36,658 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
+2024-11-30 23:12:36,728 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2024-11-30 23:12:38,006 [32mINFO [m [m[main][m [mMixinExtras|Service.info(97)[m: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+2024-11-30 23:12:44,831 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(143)[m: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+2024-11-30 23:12:44,835 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(41)[m: MinecraftForge v40.2.21 Initialized
+2024-11-30 23:12:45,225 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(17)[m: EventDispatcherRegistry initialized
+2024-11-30 23:13:04,561 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(72)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2024-11-30 23:13:07,565 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/wasaaa/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2369!/assets/.mcassetsroot' uses unexpected schema
+2024-11-30 23:13:07,573 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/wasaaa/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2369!/data/.mcassetsroot' uses unexpected schema
+2024-11-30 23:13:10,642 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-11-30 23:13:10,647 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-11-30 23:13:10,656 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2024-11-30 23:13:10,661 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2024-11-30 23:13:10,664 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2024-11-30 23:13:10,674 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+2024-11-30 23:13:10,676 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+2024-11-30 23:13:10,677 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+2024-11-30 23:13:10,679 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+2024-11-30 23:13:10,691 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+2024-11-30 23:13:10,692 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+2024-11-30 23:13:10,693 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+2024-11-30 23:13:10,694 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+2024-11-30 23:13:10,696 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+2024-11-30 23:13:10,697 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+2024-11-30 23:13:10,699 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+2024-11-30 23:13:10,700 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+2024-11-30 23:13:10,707 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+2024-11-30 23:13:10,709 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, sendmodel, targets, clear] and [mpm, sendmodel, targets, from] with inputs: [clear]
+2024-11-30 23:13:10,710 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, scale, targets, all] and [mpm, scale, targets, head] with inputs: [words_with_underscores, word]
+2024-11-30 23:13:10,722 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [mpm, scale, targets, head] and [mpm, scale, targets, all] with inputs: [words_with_underscores, word]
+2024-11-30 23:13:13,948 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 9 recipes
+2024-11-30 23:13:18,142 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(150)[m: Starting minecraft server version 1.18.2
+2024-11-30 23:13:18,142 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(155)[m: Loading properties
+2024-11-30 23:13:18,143 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: Default game type: SURVIVAL
+2024-11-30 23:13:18,143 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1286)[m: Generating keypair
+2024-11-30 23:13:18,315 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(183)[m: Starting Minecraft server on *:25565
+2024-11-30 23:13:18,345 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(79)[m: Using epoll channel type
+2024-11-30 23:13:18,541 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(195)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2024-11-30 23:13:18,541 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(196)[m: The server will make no attempt to authenticate usernames. Beware.
+2024-11-30 23:13:18,542 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(197)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2024-11-30 23:13:18,542 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2024-11-30 23:13:18,678 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.18.2-187 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT, Forge version 40.2.21)
+2024-11-30 23:13:21,068 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2024-11-30 23:13:21,072 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
+2024-11-30 23:13:21,090 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2024-11-30 23:13:23,441 [1;31mERROR[m [m[Server thread][m [mMinecraft.publish(32)[m: Could not load 'plugins/worldedit-bukkit-7.3.9.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/WorldEditPlugin has been compiled by a more recent version of the Java Runtime (class file version 65.0), this version of the Java Runtime only recognizes class file versions up to 61.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:148) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:393) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
@@ -72,77 +72,94 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:77) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:144) ~[forge-1.18.2-40.2.21-universal.jar%2374!/:?]
 	... 7 more
-2024-11-30 22:59:55,198 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading LuckPerms v5.4.146
-2024-11-30 22:59:56,419 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Loading SkinsRestorer v15.4.4
-2024-11-30 22:59:56,426 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Enabling LuckPerms v5.4.146
-2024-11-30 22:59:59,163 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b       §3 __    
-2024-11-30 22:59:59,164 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b  |    §3|__)   §2LuckPerms§r §bv5.4.146
-2024-11-30 22:59:59,165 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b  |___ §3|      §8Running on Bukkit - Mohist
-2024-11-30 22:59:59,173 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: 
-2024-11-30 22:59:59,180 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading configuration...
-2024-11-30 23:00:00,821 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading storage provider... [H2]
-2024-11-30 23:00:05,835 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading internal permission managers...
-2024-11-30 23:00:06,427 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Performing initial data load...
-2024-11-30 23:00:06,649 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Successfully enabled. (took 10223ms)
-2024-11-30 23:00:06,652 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-2024-11-30 23:00:09,402 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-2024-11-30 23:00:12,096 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
-2024-11-30 23:00:14,277 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(224)[m: Preparing level "world"
-2024-11-30 23:00:15,145 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:overworld
-2024-11-30 23:00:17,353 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:17,408 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:17,424 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:17,435 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:17,451 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:17,649 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:18,147 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:18,650 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:19,177 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:19,658 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:20,148 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:20,648 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
-2024-11-30 23:00:21,179 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
-2024-11-30 23:00:21,646 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 7%
-2024-11-30 23:00:22,149 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 15%
-2024-11-30 23:00:22,648 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 28%
-2024-11-30 23:00:23,150 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 43%
-2024-11-30 23:00:23,646 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 60%
-2024-11-30 23:00:24,146 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 90%
-2024-11-30 23:00:24,671 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 9525 ms
-2024-11-30 23:00:24,893 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_end
-2024-11-30 23:00:25,270 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:25,399 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:25,898 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 16%
-2024-11-30 23:00:26,398 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 88%
-2024-11-30 23:00:26,689 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 1792 ms
-2024-11-30 23:00:26,695 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_nether
-2024-11-30 23:00:27,046 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:27,199 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:27,699 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
-2024-11-30 23:00:28,198 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
-2024-11-30 23:00:28,802 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
-2024-11-30 23:00:29,199 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 21%
-2024-11-30 23:00:29,699 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 75%
-2024-11-30 23:00:29,909 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3212 ms
-2024-11-30 23:00:29,948 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
-2024-11-30 23:00:29,988 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(228)[m: Done (15.767s)! For help, type "help"
-2024-11-30 23:00:30,025 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
-2024-11-30 23:00:30,613 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-2024-11-30 23:00:30,615 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-2024-11-30 23:00:30,617 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-2024-11-30 23:00:30,619 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-2024-11-30 23:00:30,621 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-2024-11-30 23:00:30,623 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-2024-11-30 23:00:30,624 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-2024-11-30 23:00:30,626 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
-2024-11-30 23:00:30,628 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
-2024-11-30 23:00:30,630 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-2024-11-30 23:00:30,631 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-2024-11-30 23:00:30,633 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-2024-11-30 23:00:30,634 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-2024-11-30 23:02:40,907 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player alascrack is 0ce6b943-145d-35bb-9c51-4cccce57b6fc
-2024-11-30 23:02:41,154 [1;31mERROR[m [m[Netty Epoll Server IO #2][m [mn.m.n.NetworkRegistry.validateChannels(239)[m: Channels [pehkui:main] rejected their client side version number
-2024-11-30 23:02:41,156 [1;31mERROR[m [m[Netty Epoll Server IO #2][m [mn.m.n.HandshakeHandler.handleClientModListOnServer(248)[m: Terminating connection with client, mismatched mod list
-2024-11-30 23:02:41,185 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@5eb7b460[id=0ce6b943-145d-35bb-9c51-4cccce57b6fc,name=alascrack,properties={},legacy=false] (/127.250.251.170:38581) lost connection: Connection closed - mismatched mod channel list
-2024-11-30 23:05:53,858 [32mINFO [m [m[User Authenticator #2][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player alascrack is 0ce6b943-145d-35bb-9c51-4cccce57b6fc
-2024-11-30 23:05:55,627 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerLoginPacketListenerImpl.m_7026_(185)[m: com.mojang.authlib.GameProfile@23a8eb9[id=0ce6b943-145d-35bb-9c51-4cccce57b6fc,name=alascrack,properties={},legacy=false] (/127.250.251.170:56543) lost connection: Disconnected
+2024-11-30 23:13:23,456 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading LuckPerms v5.4.146
+2024-11-30 23:13:24,431 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Loading SkinsRestorer v15.4.4
+2024-11-30 23:13:24,435 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Enabling LuckPerms v5.4.146
+2024-11-30 23:13:26,849 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b       §3 __    
+2024-11-30 23:13:26,850 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b  |    §3|__)   §2LuckPerms§r §bv5.4.146
+2024-11-30 23:13:26,851 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: §b  |___ §3|      §8Running on Bukkit - Mohist
+2024-11-30 23:13:26,853 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: 
+2024-11-30 23:13:26,859 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading configuration...
+2024-11-30 23:13:27,837 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading storage provider... [H2]
+2024-11-30 23:13:32,239 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Loading internal permission managers...
+2024-11-30 23:13:32,969 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Performing initial data load...
+2024-11-30 23:13:33,161 [32mINFO [m [m[Server thread][m [mm.l.l.b.l.BukkitLoaderPlugin.publish(36)[m: [LuckPerms] Successfully enabled. (took 8725ms)
+2024-11-30 23:13:33,162 [32mINFO [m [m[Server thread][m [mn.s.b.SRBukkitBootstrap.publish(36)[m: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+2024-11-30 23:13:35,650 [33mWARN [m [m[Server thread][m [mMinecraft.publish(34)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+2024-11-30 23:13:38,156 [32mINFO [m [m[Server thread][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+2024-11-30 23:13:40,608 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(224)[m: Preparing level "world"
+2024-11-30 23:13:41,249 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:overworld
+2024-11-30 23:13:42,914 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:43,103 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:43,104 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:43,105 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:43,257 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:43,751 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:44,251 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:44,755 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:45,251 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:45,751 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:46,251 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2024-11-30 23:13:46,752 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 11%
+2024-11-30 23:13:47,259 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 19%
+2024-11-30 23:13:47,752 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 33%
+2024-11-30 23:13:48,251 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 50%
+2024-11-30 23:13:48,751 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 83%
+2024-11-30 23:13:49,448 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 8199 ms
+2024-11-30 23:13:49,540 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_end
+2024-11-30 23:13:50,939 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:50,943 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:50,944 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:51,041 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:51,542 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 11%
+2024-11-30 23:13:52,042 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 58%
+2024-11-30 23:13:52,543 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3002 ms
+2024-11-30 23:13:52,546 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_nether
+2024-11-30 23:13:53,438 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:53,451 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:53,554 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:54,047 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:54,702 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2024-11-30 23:13:55,054 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2024-11-30 23:13:55,546 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 9%
+2024-11-30 23:13:56,046 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 82%
+2024-11-30 23:13:56,280 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3735 ms
+2024-11-30 23:13:56,308 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2024-11-30 23:13:56,328 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(228)[m: Done (15.790s)! For help, type "help"
+2024-11-30 23:13:56,354 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2024-11-30 23:13:56,832 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-11-30 23:13:56,834 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2024-11-30 23:13:56,836 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+2024-11-30 23:13:56,838 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+2024-11-30 23:13:56,839 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+2024-11-30 23:13:56,840 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+2024-11-30 23:13:56,842 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-11-30 23:13:56,843 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
+2024-11-30 23:13:56,844 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
+2024-11-30 23:13:56,846 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+2024-11-30 23:13:56,848 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+2024-11-30 23:13:56,849 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+2024-11-30 23:13:56,850 [32mINFO [m [m[Craft Scheduler Thread - 1][m [mColouredConsoleSender.sendMessage(55)[m: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+2024-11-30 23:16:49,113 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player alascrack is 0ce6b943-145d-35bb-9c51-4cccce57b6fc
+2024-11-30 23:16:51,533 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d8ca34f
+2024-11-30 23:16:51,847 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: alascrack[/127.250.251.170:45301] logged in with entity id 329 at (-281.5, 14.0, 299.5)
+2024-11-30 23:17:37,936 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player alexwhis is bd65c86d-bc57-392b-827d-383232bc641a
+2024-11-30 23:17:46,728 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@757d52be
+2024-11-30 23:17:46,767 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: alexwhis[/127.81.171.77:50175] logged in with entity id 330 at (-289.5, 14.0, 293.5)
+2024-11-30 23:18:25,976 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: Made alexwhis a server operator
+2024-11-30 23:18:32,697 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /gamemode creative
+2024-11-30 23:18:32,702 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alexwhis: Set own game mode to Creative Mode]
+2024-11-30 23:19:00,983 [32mINFO [m [m[Async Chat Thread - #0][m [mColouredConsoleSender.sendMessage(55)[m: <alexwhis> don tas we
+2024-11-30 23:20:56,750 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> dame op
+2024-11-30 23:21:02,676 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alexwhis> op alascrack
+2024-11-30 23:21:06,743 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> :V
+2024-11-30 23:21:09,409 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /op alascrack
+2024-11-30 23:21:09,413 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alexwhis: Made alascrack a server operator]
+2024-11-30 23:21:17,477 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alexwhis> se me olvido la /
+2024-11-30 23:21:41,148 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: alascrack was slain by alexwhis
+2024-11-30 23:21:52,668 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [@: Applied effect Invisibility to alexwhis]
+2024-11-30 23:21:54,670 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [@: Gave 1 [Milk Bucket] to alexwhis]
+2024-11-30 23:21:58,967 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [@: Set alexwhis's game mode to Adventure Mode]
+2024-11-30 23:22:00,916 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [@: Set alexwhis's game mode to Creative Mode]
+2024-11-30 23:22:13,926 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> aver dejaras el autismo o q
+2024-11-30 23:22:30,667 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [@: Set alascrack's game mode to Creative Mode]
