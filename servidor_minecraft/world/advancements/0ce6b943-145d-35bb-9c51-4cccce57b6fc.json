@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2024-11-30 23:28:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-30 23:23:23 +0000"
@@ -23,21 +17,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2024-11-30 23:24:39 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/lime_sofa": {
     "criteria": {
       "has_wool": "2024-11-30 23:28:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-11-30 23:21:41 +0000"
     },
     "done": true
   },
@@ -47,21 +29,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_sword": "2024-11-30 23:23:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2024-11-30 23:28:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_bed": {
+  "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2024-11-30 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-11-30 23:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-30 23:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-11-30 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-11-30 23:23:20 +0000"
     },
     "done": true
   },
@@ -70,6 +70,12 @@
       "minecraft:plains": "2024-11-30 23:16:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2024-11-30 23:28:14 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2975
 }

@@ -200,3 +200,15 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 2024-11-30 23:28:32,772 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: alascrack left the game
 2024-11-30 23:28:52,367 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: alexwhis lost connection: Disconnected
 2024-11-30 23:28:52,370 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: alexwhis left the game
+2024-11-30 23:35:20,624 [32mINFO [m [m[User Authenticator #2][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player alascrack is 0ce6b943-145d-35bb-9c51-4cccce57b6fc
+2024-11-30 23:35:23,874 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@314a5295
+2024-11-30 23:35:23,903 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: alascrack[/127.250.251.170:33261] logged in with entity id 334 at (-283.54570794814043, 13.0, 288.67045784118676)
+2024-11-30 23:35:59,241 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /team add Hawers
+2024-11-30 23:35:59,244 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Created team [Hawers]]
+2024-11-30 23:36:08,185 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /team modify Hawers nametagVisibility never
+2024-11-30 23:36:08,187 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Nametag visibility for team [Hawers] is now "Never"]
+2024-11-30 23:36:14,577 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /team join Hawers alascrack
+2024-11-30 23:36:14,580 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Added alascrack to team [Hawers]]
+2024-11-30 23:42:09,647 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.6
+2024-11-30 23:42:15,185 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.8
+2024-11-30 23:42:28,887 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:width 0.8
