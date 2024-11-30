@@ -163,3 +163,40 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 2024-11-30 23:22:00,916 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [@: Set alexwhis's game mode to Creative Mode]
 2024-11-30 23:22:13,926 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> aver dejaras el autismo o q
 2024-11-30 23:22:30,667 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [@: Set alascrack's game mode to Creative Mode]
+2024-11-30 23:22:35,667 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alexwhis> me perdonas :c
+2024-11-30 23:23:05,949 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> tu eres tonto, espada de netherite filo v
+2024-11-30 23:23:08,917 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> osea
+2024-11-30 23:23:11,850 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alexwhis> claro
+2024-11-30 23:23:29,035 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /gamemode survival alascrack
+2024-11-30 23:23:29,037 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alexwhis: Set alascrack's game mode to Survival Mode]
+2024-11-30 23:23:30,446 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: alascrack was slain by alexwhis
+2024-11-30 23:23:40,782 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> autista 100%
+2024-11-30 23:23:42,382 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alexwhis> dos golpes no esta mal
+2024-11-30 23:23:49,749 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> :V
+2024-11-30 23:23:55,750 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alexwhis> soy artista
+2024-11-30 23:23:58,709 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /gamemode creative
+2024-11-30 23:23:58,710 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Set own game mode to Creative Mode]
+2024-11-30 23:23:59,198 [32mINFO [m [m[Async Chat Thread - #1][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> a
+2024-11-30 23:24:19,999 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: alascrack has made the advancement [Cover Me with Diamonds]
+2024-11-30 23:25:09,029 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:height 1
+2024-11-30 23:25:20,191 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:height 0.1
+2024-11-30 23:25:25,349 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /clear alascrack
+2024-11-30 23:25:25,356 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Removed 215 items from player alascrack]
+2024-11-30 23:25:34,358 [32mINFO [m [m[Async Chat Thread - #2][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> :V
+2024-11-30 23:25:38,808 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:height 2
+2024-11-30 23:25:49,623 [32mINFO [m [m[Async Chat Thread - #2][m [mColouredConsoleSender.sendMessage(55)[m: <alexwhis> bro como en la vida real
+2024-11-30 23:25:53,828 [32mINFO [m [m[Async Chat Thread - #2][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> xd
+2024-11-30 23:26:01,309 [32mINFO [m [m[Async Chat Thread - #2][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> pa ponte en mi mista estatu
+2024-11-30 23:26:06,407 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:width 2
+2024-11-30 23:26:20,897 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:width 1
+2024-11-30 23:26:27,685 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:height 1
+2024-11-30 23:26:37,683 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:height 0.5
+2024-11-30 23:26:44,225 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:height 0.6
+2024-11-30 23:26:51,851 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:height 0.7
+2024-11-30 23:27:00,738 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alexwhis issued server command: /scale set pehkui:width 0.7
+2024-11-30 23:28:23,683 [32mINFO [m [m[Async Chat Thread - #3][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> aver
+2024-11-30 23:28:25,668 [32mINFO [m [m[Async Chat Thread - #3][m [mColouredConsoleSender.sendMessage(55)[m: <alascrack> llamare
+2024-11-30 23:28:32,767 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: alascrack lost connection: Disconnected
+2024-11-30 23:28:32,772 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: alascrack left the game
+2024-11-30 23:28:52,367 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: alexwhis lost connection: Disconnected
+2024-11-30 23:28:52,370 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: alexwhis left the game
