@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2024-11-30 23:23:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-11-30 23:49:02 +0000"
     },
     "done": true
   },
@@ -23,9 +23,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_coffee_table": {
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
     "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
+      "has_top": "2024-11-30 23:49:02 +0000"
     },
     "done": true
   },
@@ -35,9 +35,165 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2024-11-30 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-11-30 23:16:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-30 23:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-11-30 23:24:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_sofa": {
+    "criteria": {
+      "has_wool": "2024-11-30 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-11-30 23:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-30 23:21:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-11-30 23:49:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:45:26 +0000"
     },
     "done": true
   },
@@ -71,37 +227,19 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2024-11-30 23:16:51 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/cfm/birch_crate": {
     "criteria": {
       "has_planks": "2024-11-30 23:45:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
+      "has_top": "2024-11-30 23:49:02 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/birch_desk": {
     "criteria": {
       "has_planks": "2024-11-30 23:45:26 +0000"
     },
@@ -113,27 +251,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
-      "has_lots_of_items": "2024-11-30 23:23:23 +0000"
+      "has_top": "2024-11-30 23:49:02 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
     "criteria": {
-      "diamond_chestplate": "2024-11-30 23:24:19 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/lime_sofa": {
-    "criteria": {
-      "has_wool": "2024-11-30 23:28:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
+      "has_top": "2024-11-30 23:49:02 +0000"
     },
     "done": true
   },
@@ -143,15 +269,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
-      "has_wool": "2024-11-30 23:28:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
+      "has_top": "2024-11-30 23:49:02 +0000"
     },
     "done": true
   },
@@ -161,9 +281,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
+  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
     "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
+      "has_top": "2024-11-30 23:49:02 +0000"
     },
     "done": true
   },
@@ -179,27 +299,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-11-30 23:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-11-30 23:21:41 +0000"
     },
     "done": true
   },
@@ -209,9 +311,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/birch_kitchen_counter": {
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
-      "has_planks": "2024-11-30 23:45:26 +0000"
+      "has_top": "2024-11-30 23:49:02 +0000"
     },
     "done": true
   },

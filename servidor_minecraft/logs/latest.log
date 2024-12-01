@@ -221,3 +221,14 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 2024-11-30 23:51:27,053 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.8 humberto56
 2024-11-30 23:51:36,533 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /op humberto56
 2024-11-30 23:51:36,538 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Made humberto56 a server operator]
+2024-11-30 23:54:08,800 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: humberto56 issued server command: /fly
+2024-11-30 23:54:20,379 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: humberto56 issued server command: /gamemode creative
+2024-11-30 23:54:20,381 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [humberto56: Set own game mode to Creative Mode]
+2024-11-30 23:54:40,792 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: humberto56 issued server command: /gamemode survival
+2024-11-30 23:54:40,793 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [humberto56: Set own game mode to Survival Mode]
+2024-11-30 23:56:41,427 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.6 humberto56
+2024-11-30 23:56:45,835 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.6 humberto56
+2024-11-30 23:56:51,427 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:height 0.6
+2024-11-30 23:57:00,387 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /scale set pehkui:width 0.6
+2024-11-30 23:57:35,973 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /team join Hawers humberto56
+2024-11-30 23:57:35,974 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Added humberto56 to team [Hawers]]
