@@ -5,3 +5,5 @@
 2024-12-01 00:05:36,435 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Teleported alascrack to humberto56]
 2024-12-01 00:05:59,729 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: alascrack issued server command: /tp -215 15 250
 2024-12-01 00:05:59,731 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Teleported alascrack to -214.500000, 15.000000, 250.500000]
+2024-12-01 00:19:05,130 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: humberto56 issued server command: /gamemode creative
+2024-12-01 00:19:05,131 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [humberto56: Set own game mode to Creative Mode]

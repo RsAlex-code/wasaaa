@@ -8043,3 +8043,9 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 2024-12-01 00:05:59,731 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [alascrack: Teleported alascrack to -214.500000, 15.000000, 250.500000]
 2024-12-01 00:08:56,327 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
 2024-12-01 00:08:56,336 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2024-12-01 00:13:56,327 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2024-12-01 00:13:56,335 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2024-12-01 00:18:56,326 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1442)[m: Gathering id map for writing to world save world
+2024-12-01 00:18:56,334 [36mDEBUG[m [m[Server thread][m [mn.m.c.ForgeHooks.writeAdditionalLevelSaveData(1448)[m: ID Map collection complete world
+2024-12-01 00:19:05,130 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_9957_(1721)[m: humberto56 issued server command: /gamemode creative
+2024-12-01 00:19:05,131 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: [humberto56: Set own game mode to Creative Mode]
